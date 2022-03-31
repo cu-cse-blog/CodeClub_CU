@@ -6,3 +6,6 @@
 - ## [4. CodeClub_CU(); October Contest](./4.%20CodeClub_CU();%20October%20Contest.md)
 - ## [5. Play with Primes (CU)](./5.%20Play%20with%20Primes%20(CU).md)
 - ## [6. LOOTS !!](./6.%20LOOTS%20!!.md)
+  
+  
+#### Solutions by @Suvraneel
