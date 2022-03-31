@@ -8,4 +8,4 @@
 - ## [6](./6.cpp)
   
   
-#### Solutions by @omharicu
+#### Solutions by [@omharicu](https://github.com/omharicu)
