@@ -2,4 +2,4 @@
 
 ## Contests
 
-- [CU October Challenge](./CU%20October%20Challenge)
+- [CU October Challenge 2022](./CU%20October%20Challenge%202021)
