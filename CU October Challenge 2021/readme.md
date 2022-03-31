@@ -8,4 +8,4 @@
 - ## [6. LOOTS !!](./6.%20LOOTS%20!!.md)
   
   
-#### Solutions by @Suvraneel  
+#### Solutions by [@Suvraneel](https://github.com/Suvraneel)  
