@@ -1,4 +1,4 @@
-# CU March Challenge 2022
+# CodeCLub_CU March Challenge 2022
 
 - ## [1](./1.cpp)
 - ## [2](./2.cpp)
